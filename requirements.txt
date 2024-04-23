@@ -69,7 +69,7 @@ protobuf==4.22.1
 psutil==5.9.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycosat==0.6.4
+pycosat==0.6.3
 pycparser==2.21
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
