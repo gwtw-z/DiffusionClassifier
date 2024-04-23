@@ -44,7 +44,8 @@ ml-collections==0.1.1
 mpmath==1.3.0
 networkx==3.0
 ninja==1.11.1
-numpy~=1.25.2
+# numpy~=1.25.2
+numpy==1.24.0
 nvidia-cublas-cu11==11.10.3.66
 nvidia-cuda-cupti-cu11==11.7.101
 nvidia-cuda-nvrtc-cu11==11.7.99
